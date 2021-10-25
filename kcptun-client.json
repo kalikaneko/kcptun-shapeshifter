@@ -1,0 +1,7 @@
+{ 
+    "remoteaddr": "1.1.1.1:4000",
+    "localaddr": "127.0.0.1:8443",
+    "crypt": "none",
+    "mode": "fast2"
+}
+

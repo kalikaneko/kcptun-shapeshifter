@@ -1,0 +1,6 @@
+{
+        "listen": ":4000",
+        "target": "localhost:1194",
+        "crypt": "none",
+        "mode": "fast2"
+}
